@@ -1,4 +1,4 @@
-# Web-Scraper-Basico
+# Web Scraper Basico
 Web Scraper básico utilizando Selenium en Python.
 
 1. Buscar sitio web por URL.
